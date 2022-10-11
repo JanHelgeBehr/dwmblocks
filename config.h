@@ -5,8 +5,8 @@ static const Block blocks[] = {
 /*	{"",	"music",	0,	11},  */
 /*	{"",	"pacpackages",	0,	8}, */
 /*	{"",	"news",		0,	6}, */
-	{"",	"borg-mount",	0,	13},
-	{"",	"nextcloud-mount",	0,	14},
+/*	{"",	"borg-mount",	0,	13},*/
+/*	{"",	"nextcloud-mount",	0,	14},
 /*	{"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
 /*	{"",	"price btc Bitcoin 💰",				0,	21}, */
 /*	{"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
@@ -15,11 +15,11 @@ static const Block blocks[] = {
 /*	{"",	"cpu",		10,	18}, */
 /*	{"",	"moonphase",	18000,	17}, */
 /*	{"",	"weather",	18000,	5}, */
-	{"",	"mailbox",	180,	12},
-	{" ",	"nettraf",	1,	16},
-	{" ",	"volume",	0,	10},
+/*	{"",	"mailbox",	180,	12},*/
+/*	{" ",	"nettraf",	1,	16},*/
+/*	{" ",	"volume",	0,	10},*/
 /*	{"",	"battery",	5,	3}, */
-	{" ",	"disk_btrfs",	60,	1},
+/*	{" ",	"disk_btrfs",	60,	1}, */
 	{"",	"home_btrfs",	60,	1},
 	{"",	"clock",	60,	1},
 /*	{"",	"internet",	5,	4},  */
