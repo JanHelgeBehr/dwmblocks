@@ -6,7 +6,7 @@ static const Block blocks[] = {
 /*	{"",	"pacpackages",	0,	8}, */
 /*	{"",	"news",		0,	6}, */
 /*	{"",	"borg-mount",	0,	13},*/
-/*	{"",	"nextcloud-mount",	0,	14},
+/*	{"",	"nextcloud-mount",	0,	14}, */
 /*	{"",	"price bat \"Basic Attention Token\" 🦁",	0,	20}, */
 /*	{"",	"price btc Bitcoin 💰",				0,	21}, */
 /*	{"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
