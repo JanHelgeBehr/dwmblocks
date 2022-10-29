@@ -16,11 +16,11 @@ static const Block blocks[] = {
 /*	{"",	"moonphase",	18000,	17}, */
 /*	{"",	"weather",	18000,	5}, */
 /*	{"",	"mailbox",	180,	12},*/
-	{" ",	"nettraf",	1,	16},
+/*	{" ",	"nettraf",	1,	16}, */
 	{" ",	"volume",	0,	10},
 /*	{"",	"battery",	5,	3}, */
 	{" ",	"btrfsHome",	60,	1}, 
-	{"",	"btrfsRoot",	60,	1},
+	{" ",	"btrfsRoot",	60,	1},
 	{"",	"clock",	60,	1},
 /*	{"",	"internet",	5,	4},  */
 /*	{"",	"help-icon",	0,	15},*/
