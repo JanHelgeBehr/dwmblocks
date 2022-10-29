@@ -19,8 +19,8 @@ static const Block blocks[] = {
 	{" ",	"nettraf",	1,	16},
 	{" ",	"volume",	0,	10},
 /*	{"",	"battery",	5,	3}, */
-	{" ",	"disk_btrfs",	60,	1}, 
-	{"",	"btrfsHome",	60,	1},
+	{" ",	"btrfsHome",	60,	1}, 
+	{"",	"btrfsRoot",	60,	1},
 	{"",	"clock",	60,	1},
 /*	{"",	"internet",	5,	4},  */
 /*	{"",	"help-icon",	0,	15},*/
